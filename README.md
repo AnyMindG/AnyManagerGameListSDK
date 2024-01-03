@@ -1,0 +1,2 @@
+# AnyManagerGameListSDK
+AnyManagerGameListSDK
